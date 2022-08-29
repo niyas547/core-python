@@ -1,0 +1,10 @@
+a=7
+b=3.2
+c=4+6j
+d='hello'
+e=True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))

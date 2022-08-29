@@ -1,0 +1,6 @@
+f=open("new6", "r")
+l=f.read()
+f1=open("new7", "w")
+f1.write(l)
+f.close()
+f1.close()

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "ram",
+    "department": "hr",
+    "salary": 34000
+  },
+  {
+    "id": 2,
+    "name": "ravi",
+    "department": "hr",
+    "salary": 35000
+  },
+  {
+    "id": 3,
+    "name": "raju",
+    "department": "mrkt",
+    "salary": 240000
+  },
+  {
+    "id": 4,
+    "name": "tinu",
+    "department": "mrkt",
+    "salary": 40000
+  },
+  {
+    "id": 5,
+    "name": "jhon",
+    "department": "sales",
+    "salary": 37000
+  },
+  {
+    "id": 6,
+    "name": "james",
+    "department": "sales",
+    "salary": 35000
+  },
+  {
+    "id": 7,
+    "name": "ahaan",
+    "department": "deveop",
+    "salary": 54000
+  },
+  {
+    "id": 8,
+    "name": "tressa",
+    "department": "devop",
+    "salary": 64000
+  },
+  {
+    "id": 9,
+    "name": "dij0",
+    "department": "qa",
+    "salary": 42000
+  }
+]

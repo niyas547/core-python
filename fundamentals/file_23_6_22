@@ -1,0 +1,14 @@
+r                       read
+r+                      read and write
+w                       write
+w+                      write and read
+a                       append
+a+                      append and read
+
+open()                  it is a func used to open a file
+close()                 it is a func used to close a file
+read()                                    to read a file
+readline()
+readlines()
+write()                                   to write a file
+writelines()

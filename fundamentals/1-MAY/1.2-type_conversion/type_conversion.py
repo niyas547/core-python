@@ -1,0 +1,17 @@
+# a=7
+# print(type(a))
+# b=float(a)
+# print(type(b))
+# a=4.3
+# print(type(a))
+# b=int(a)
+# print(type(b))
+# a=5
+# print(type(a))
+# c=complex(a)
+# print(c)
+# print(type(c))
+# a="20"
+# print(type(a))
+# b=int(a)
+# print(type(b))
